@@ -3,7 +3,7 @@ Very simple logger written in golang
 
 
 ## How to use
-```
+```golang
 import(
   log "github.com/kylhuk/goLogger"
   "fmt"
